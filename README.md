@@ -175,7 +175,7 @@ Project Link: [https://github.com/ehfazrezwan/uniswap-blockchain-app](https://gi
 [issues-shield]: https://img.shields.io/github/issues/ehfazrezwan/uniswap-blockchain-app
 [issues-url]: https://github.com/ehfazrezwan/uniswap-blockchain-app/issues
 [license-shield]: https://img.shields.io/github/license/ehfazrezwan/uniswap-blockchain-app
-[license-url]: https://github.com/ehfazrezwan/uniswap-blockchain-app/blob/master/LICENSE.txt
+[license-url]: https://github.com/ehfazrezwan/uniswap-blockchain-app/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ehfaz-rezwan
 [product-screenshot]: images/app.png
